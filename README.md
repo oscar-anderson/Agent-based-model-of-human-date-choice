@@ -22,13 +22,11 @@ From running each model simulation once, with 1000 agents and 1000 suitors (as s
 <br>
 From running each model 50 times, and averaging across the correlations determined from each run, the same pattern of results were established: <br>
 <br>
-Attractiveness = 0.62 <br>
-Similarity = 0.69 <br>
+<img src="Images/Table1.png" width="497" /> <br>
 <br>
 This followed a similar pattern of results to the correlations predicted by Kalick and Hamilton's original model: <br>
 <br>
-Attractiveness = 0.61 <br>
-Similarity = 0.83 <br>
+<img src="Images/Table2.png" width="500" /> <br>
 <br>
 ## Conclusion
 The existing literature related to the phenomenon of assortative mating in humans (that is, the observed similarity that tends to occur between the attractiveness of members of a romantic couple) reports correlations of .42 (Feingold, 1981) and .53 (Citelli and Waid, 1980) between romantic partners, as well as correlations of .56 and .63 for serious daters and engaged or married couples (White, 1980; Kaznatcheev et al., 2010). Given this context, the results that we have established from this replication of Kalick and Hamilton’s ABMs demonstrate not only that our models were able to replicate a similar pattern of results to those established by the original models (presented above), but they also further substantiate the notion that assortative mating in humans can be more accurately explained by the attractiveness hypothesis model – which gives coefficients more reflective of the relationship observed between the attractiveness of romantic partners in real life.
