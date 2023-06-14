@@ -1,4 +1,4 @@
-# runKalickHamilton
+# Replication of Kalick & Hamilton’s (1986) Agent-Based Model of Human Date Choice
 
 ## Summary <br>
 This implementation replicates Kalick and Hamilton's (1986) agent-based model of how humans choose romantic partners, as outlined in Grow (2021). This MATLAB function, named runKalickHamilton(), simulates the formation of romantic relationships among a population of a given size, according to the decision rule of either the matching hypothesis (the notion that individuals seek partners of similar attractiveness to themselves) or the attractiveness hypothesis (the notion that individuals seek the most attractive partners that they can find). The function takes the number of agents to-be-coupled and the decision rule (either 'similarity' or 'attractiveness) through which the coupling of the agents is determined.
